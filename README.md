@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @max-laurent
 - 👀 I’m interested in bioinformatics, quantitative genetics, plant biology and biotechnology
-- 🌱 I’m currently working on a rnaseq data preprocessing pipeline and genome wide association study
+- 🌱 I’m currently working on a rnaseq data preprocessing pipeline and genome wide association studies
 - 📫 How to reach me: maxime.laurent@uclouvain.be
 
 <!---
